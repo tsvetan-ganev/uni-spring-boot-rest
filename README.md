@@ -7,8 +7,9 @@
 2. Database with the name `springdb` created.
 
 ### Steps
-1. Install dependencies with Maven: `./mvnw clean install`.
-2. Run the application `./mvnw spring-boot:run`.
+1. Install Maven.
+2. Install dependencies with Maven: `mvn clean install`.
+3. Run the application `mvn spring-boot:run`.
 
 The application will listen on port *9000*.
 
